@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logistic-regression-cpp", "logistic-regression-cpp.vcxproj", "{A53FB613-8178-48E5-9934-DA056F5518F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Debug|x64.ActiveCfg = Debug|x64
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Debug|x64.Build.0 = Debug|x64
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Debug|x86.Build.0 = Debug|Win32
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Release|x64.ActiveCfg = Release|x64
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Release|x64.Build.0 = Release|x64
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Release|x86.ActiveCfg = Release|Win32
+		{A53FB613-8178-48E5-9934-DA056F5518F4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6428BB60-697F-4FA0-9C3D-72D088ABDADA}
+	EndGlobalSection
+EndGlobal
