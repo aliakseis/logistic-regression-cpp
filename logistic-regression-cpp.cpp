@@ -6,6 +6,7 @@
 #include <fstream>
 #include <iostream>
 #include <stdint.h>
+#include <math.h>
 #include <vector>
 #include <numeric>
 #include <iterator>
