@@ -151,7 +151,7 @@ int main()
                 const double lambda = .015;
                 const double lr = .97;
 
-                std::vector<double> w(trainingSet.size() + 1, -1.);
+                std::vector<double> w(DIM + 1, -1.);
 
                 //double prev_cost = DBL_MAX;
 
